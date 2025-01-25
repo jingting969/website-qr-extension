@@ -22,7 +22,7 @@
 
 1. 克隆仓库
 ```bash
-git clone https://github.com/[your-username]/ai-prompt-engineering-guide.git
+git clone git@github.com:jingting969/website-qr-extension.git
 ```
 
 2. 浏览文档
